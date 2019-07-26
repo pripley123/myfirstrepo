@@ -1,3 +1,0 @@
-# myfirstrepo
-
-Some sample text
