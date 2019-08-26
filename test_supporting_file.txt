@@ -1,2 +1,2 @@
 quack quack quack quack!!
-study id : A123456789
+study id : S123456789
