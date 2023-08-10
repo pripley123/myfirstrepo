@@ -1,6 +1,3 @@
-# myfirstrepo
+test change ... another change ... Jan 13, 2023 change :-)
 
-Some sample text... a change
-
-Another small change Feb 6 2023
-A small important change - indigenous_char_test - Tk’emlúps te Secwe̓pemc
+small important change - indigenous_char_test - Tk’emlúps te Secwe̓pemc
